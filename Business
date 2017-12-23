@@ -1,0 +1,179 @@
+ <header>
+         <div class="main_header">
+            <div class="top_container">
+               <div class="pull_right">
+                  <div class="pull_right-top">
+                     <div class="icon-ghofl"><img src="images/icon-ghofl.png" > 
+                     </div>
+                     <span >فروشگاه اینترنتی دیجی کالا، <a href="#">وارد شوید</a></span>
+                  </div>
+                  <div class="icon_sabt"><img src="images/icon-ghofl.png" > 
+                  </div>
+                  <div class="rejister">
+                     <span ><a href="#">ثبت نام کنید</a></span>
+                  </div>
+                  <div class="pull_right-bottom">
+                     <div class="basket">
+                        <div class="basket_right">
+                           <div class="sabad">
+                              <img src="images/basket.png">
+                           </div>
+                        </div>
+                        <div class="basket_left">
+                           <div class="sabad_kharid">
+                              سبد خرید
+                           </div>
+                           <div class="circle">0</div>
+                        </div>
+                     </div>
+                     <div class="search">
+                        <input type="text"  class="search_text" name="" placeholder="کلمه مورد نظر را وارد کنید">
+                        <button class="search_icon">
+                        </button>
+                     </div>
+                  </div>
+               </div>
+               <div class="pull_left">
+                  <img src="images/dijikala.png">
+               </div>
+            </div>
+         </div>
+      </header>
+      <nav>
+         <div id="topmenu">
+            <ul>
+               <li>
+                  <a href="#">کالای دیجیتال <span class="icon-down"></span></a>
+                  <ul>
+                     <li>
+                        <a href="#">موبایل</a>
+                        <div class="menulevel3">
+                           <div class="menulevel3_col">
+                              <ul class="ul_menulevel3">
+                                 <li><a href="#">گوشی موبایل</a></li>
+                                 <li><a href="#">samsung</a></li>
+                                 <li><a href="#">apple</a></li>
+                                 <li><a href="#">nokia</a></li>
+                                 <li><a href="#">htc</a></li>
+                                 <li><a href="#">montrela</a></li>
+                              </ul>
+                           </div>
+                           <div class="menulevel3_col"></div>
+                           <div class="menulevel3_col"></div>
+                           <div class="menulevel3_col"></div>
+                           <img src="images/mobile.png" class="imagmenu" alt="تصویر"  title="تصویر" >
+                        </div>
+                     </li>
+                     <li><a href="#">تبلت</a></li>
+                     <li><a href="#">لپ تاپ</a></li>
+                  </ul>
+               </li>
+               <li>
+                  <a href="#">لوازم خانگی<span class="icon-down"></span></a>
+                  <ul>
+                     <li>
+                        <a href="#">برقی</a>
+                        <div class="menulevel3">
+                           <div class="menulevel3_col">
+                              <ul class="ul_menulevel3">
+                                 <li><a href="#">لخچال</a></li>
+                                 <li><a href="#">جاروبرقی</a></li>
+                                 <li><a href="#">همزن</a></li>
+                                 <li><a href="#">چای ساز</a></li>
+                                 <li><a href="#">htc0</a></li>
+                                 <li><a href="#">montrela0</a></li>
+                              </ul>
+                           </div>
+                           <div class="menulevel3_col"></div>
+                           <div class="menulevel3_col"></div>
+                           <div class="menulevel3_col"></div>
+                           <img src="images/mobile.png" class="imagmenu" alt="تصویر"  title="تصویر" >
+                        </div>
+                     </li>
+                     <li>
+                        <a href="#">ساعت</a>
+                        <div class="menulevel3">
+                           <div class="menulevel3_col">
+                              <ul class="ul_menulevel3">
+                                 <li><a href="#">سرویس</a></li>
+                                 <li><a href="#">قاشق</a></li>
+                                 <li><a href="#">چاقو</a></li>
+                                 <li><a href="#">nokia</a></li>
+                                 <li><a href="#">htc</a></li>
+                                 <li><a href="#">montrela</a></li>
+                              </ul>
+                           </div>
+                           <div class="menulevel3_col">
+                              <ul class="ul_menulevel3">
+                                 <li><a href="#">گوشی موبایل</a></li>
+                                 <li><a href="#">samsung</a></li>
+                                 <li><a href="#">apple</a></li>
+                                 <li><a href="#">nokia</a></li>
+                                 <li><a href="#">htc</a></li>
+                                 <li><a href="#">montrela</a></li>
+                              </ul>
+                           </div>
+                           <div class="menulevel3_col">
+                              <ul class="ul_menulevel3">
+                                 <li><a href="#">گوشی موبایل</a></li>
+                                 <li><a href="#">samsung</a></li>
+                                 <li><a href="#">apple</a></li>
+                                 <li><a href="#">nokia</a></li>
+                                 <li><a href="#">htc</a></li>
+                                 <li><a href="#">montrela</a></li>
+                              </ul>
+                           </div>
+                           <div class="menulevel3_col"></div>
+                           <img src="images/tablet-ebook-reader.png" class="imagmenu" alt="تصویر"  title="تصویر" >
+                        </div>
+                     </li>
+                     <li><a href="#">لپ تاپ</a></li>
+                  </ul>
+               </li>
+               <li><a href="#"> زیبایی و سلامت<span class="icon-down"></span></a></li>
+               <li><a href="#">فرهنگ و هنر<span class="icon-down"></span></a>
+               </li>
+               <li><a href="#">ورزش و سرگرمی<span class="icon-down"></span></a></li>
+            </ul>
+         </div>
+      </nav>
+
+<div class="main">
+	<div id="banner-top">
+		<img  class="images-banner" src="images/baner.jpg">
+	</div>
+	<div class="sidbar">
+		<img  class="border-telegram" src="images/telegram.jpg">
+		<ul  class="margin_bottom">
+			<li><a href="#"><img  src="images/012.jpg"></a></li>
+			<li><a href="#"><img  src="images/013.jpg"></a></li>
+			<!--<li><a href="#"><img  src="images/014.jpg"></a></li>
+			<li><a href="#"><img  src="images/015.jpg"></a></li>
+			<li><a href="#"><img  src="images/016.jpg"></a></li>
+		-->
+		</ul>
+		<div class="brands">
+		<ul>
+			<li><a href="#"><img src="images/finish.png"></a></li>
+			<li><a href="#"><img src="images/samsung-brand.jpg"></a></li>
+			<li><a href="#"><img src="images/snowa-cc6b61.png"></a></li>
+			<li><a href="#"><img src="images/x.vision.png"></a></li>
+			<li><a href="#"><img src="images/pars-khazar-8cdaa4.png"></a></li>
+			<li><a href="#"><img src="images/x.vision.png"></a></li>
+
+		</ul>
+
+</div>
+
+
+	</div>
+
+<div class="container">
+	
+
+
+</div>
+
+
+
+</div>
